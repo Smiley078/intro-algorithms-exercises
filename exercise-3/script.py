@@ -26,6 +26,7 @@ class BinaryCounter:
         return "E"
       else:
         return "F"
+        
 
   def increment(self):
     if not self.__led0:
